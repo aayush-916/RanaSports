@@ -7,22 +7,22 @@ const ImageCarousel = () => {
     {
       src: './pic5.jpg',
       headline: 'Biggest Hockey league',
-      subtext: '1st time in Bihar.',
+      subtext: '1st time in Bihar, Players Auction, 10 franchise, Prize money',
     },
     {
-      src: './football.jpg',
+      src: './pic7.jpg',
       headline: 'Biggest Hockey league',
-      subtext: '1st time in Bihar.',
+      subtext: '1st time in Bihar, Players Auction, 10 franchise, Prize money',
     },
     {
       src: './pic3.jpg',
       headline: 'Biggest Hockey league',
-      subtext: '1st time in Bihar.',
+      subtext: '1st time in Bihar, Players Auction, 10 franchise, Prize money',
     },
     {
       src: './pic2.jpg',
       headline: 'Biggest Hockey league',
-      subtext: '1st time in Bihar.',
+      subtext: '1st time in Bihar, Players Auction, 10 franchise, Prize money',
     },
   ];
 
@@ -48,7 +48,7 @@ const ImageCarousel = () => {
             </h3>
             <p
               style={{
-                fontSize: '1.2rem',
+                fontSize: '1rem',
                 textShadow: '1px 1px 3px rgba(0, 0, 0, 0.5)',
               }}
             >
